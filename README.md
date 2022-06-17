@@ -1,5 +1,5 @@
-## network
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cactuslis/networkk.git)
+## networkt
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cactuslis/networkt.git)
 
 ### heroku上部署v2ray
 - [x] 支持VMess和VLESS两种协议
